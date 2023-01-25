@@ -129,9 +129,9 @@ def run():
     <h1>Project 3: Enter a review for the movie Shrek</h1>
     <div class="navbar">
       <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="project1.html">Project 1</a></li>
-        <li><a href="project2.html">Project 2</a></li>
+        <li><a href={url1}>Home</a></li>
+        <li><a href={url2}>Project 1</a></li>
+        <li><a href={url3}>Project 2</a></li>
         <li><a href="http://54.163.48.94:8501/">Project 3</a></li>
       </ul>
     </div>
